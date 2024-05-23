@@ -12,6 +12,7 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rossetti de Queiroz</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>.
 ## Descrição
+O projeto visa implementar um sistema de monitoramento e controle de umidade do solo em estufas agrícolas para otimizar a irrigação, reduzir desperdícios de recursos e melhorar a produtividade das plantas. Os principais objetivos incluem a instalação de sensores de umidade em pontos estratégicos, automatização do sistema de irrigação com base em dados coletados, desenvolvimento de um aplicativo para monitoramento e controle remoto, e implementação de alertas e relatórios detalhados.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
