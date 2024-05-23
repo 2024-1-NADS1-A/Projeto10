@@ -67,9 +67,18 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação Arduino IDE
 
+<br>Entre no site Arduino Ide e instale: https://www.arduino.cc/en/software</br>
+<br>Faça o downloand as bibliotecas: 
+<br>Adicione a URL a seguir ao campo "Additional Board Maneger URLs"
+'''sh
 
+'''
+<br>Vá em Tools, Board, Boards Maneger, Procure por "Esp8266" e clique em instalar.</br>
+<br> Faça a conexão do esp8266 ao Blynk</br>
 
 ## 🛠 Instalação Blynk
+
+
 
 ## 🛠 Instalação Bibliotecas
 
