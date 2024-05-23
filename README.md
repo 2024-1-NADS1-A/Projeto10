@@ -101,18 +101,16 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.1.1 - 09/05/2024
+    * Inicío do projeto (montagem e código).
+* 0.1.02- 11/05/2024
+    * Testes e correção de erros.
+* 0.1.03 - 18/05/2024
+    * Integrar o ESP82 ao Blynk.
+* 0.1.04 - 23/05/2024
+    * Integração ao Blynk e ultimos testes.
+* 0.1.05 - 24/05/2024
+    * Finalização do projeto.
 
 ## 📋 Licença/License
 
