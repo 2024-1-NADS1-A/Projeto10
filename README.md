@@ -54,7 +54,20 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
+## 🛠 Materiais utilizados
+
+<br>•Esp8266</br>
+<br>•Jumpers macho/ femea</br>
+<br>•Sensor de umidade</br>
+<br>•Protoboard</br>
+<br>•Relay 5v</br>
+<br>•I2C module</br>
+<br>•Lcd display</br>
+
+
 ## 🛠 Instalação Arduino IDE
+
+
 
 ## 🛠 Instalação Blynk
 
