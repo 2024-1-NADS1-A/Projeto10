@@ -6,7 +6,7 @@
 
 # Sistema de detecção de umidade e temperatura.
 
-## Clima Sense
+## AgriSense
 
 ## Integrantes: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
 
