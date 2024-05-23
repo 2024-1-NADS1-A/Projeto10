@@ -19,12 +19,8 @@ O projeto visa implementar um sistema de monitoramento e controle de umidade do 
   Projeto desenvolvido por: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
 </p>
 
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+Meu projeto visa ajudar a implementar um sistema avançado de detecção e controle de umidade do solo em estufas agrícolas, visando melhorar a eficiência na irrigação, reduzir desperdícios de recursos naturais e aumentar a produtividade das culturas.
 <br><br>
 
 ## 🛠 Estrutura de pastas
