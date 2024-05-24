@@ -8,7 +8,7 @@
 
 ## AgriSense
 
-## Integrantes: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
+## Integrantes: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a> e <a href="https:https://www.linkedin.com/in/lucca-brand%C3%A3o-821044243/">Lucca Brandão</a></a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rossetti de Queiroz</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>.
 ## Descrição
@@ -17,7 +17,7 @@ O projeto visa implementar um sistema de monitoramento e controle de umidade do 
 ![Imagem projeto](https://github.com/2024-1-NADS1-A/Projeto10/assets/163611404/dd5d485e-c5d3-483d-8d56-3b4ace23a275)
 <p align="center">
 <img src= alt="NOME DO JOGO" border="0">
-  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
+  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a> e <a href="https:https://www.linkedin.com/in/lucca-brand%C3%A3o-821044243/">Lucca Brandão</a>
 </p>
 
 <br><br>
@@ -102,7 +102,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Finalização do projeto.
 
 ## 📋 Licença/License
-<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está marcado com <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom; " src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NADS1-A/Projeto10">AgriSense</a> by <span property="cc:attributionName">Fecap, Lucas Gomes de Souza e Lucca Brandão</span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ## 🎓 Referências
 
