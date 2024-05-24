@@ -68,20 +68,22 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Instalação Arduino IDE
 
 <br>Entre no site Arduino Ide e instale: https://www.arduino.cc/en/software</br>
-<br>Faça o downloand as bibliotecas: 
-<br>Adicione a URL a seguir ao campo "Additional Board Maneger URLs"
-'''sh
-
-'''
-<br>Vá em Tools, Board, Boards Maneger, Procure por "Esp8266" e clique em instalar.</br>
+<br>Faça o downloand das bibliotecas necessárias;</br>
+<br>Teste o código</br>
 <br> Faça a conexão do esp8266 ao Blynk</br>
 
 ## 🛠 Instalação Blynk
+Inicie um novo projeto e obtenha as credenciais necessárias com o token de autenticação;
 
+No código do ESP32, inclua a biblioteca do Blynk e insira as credenciais obtidas;
 
+Estabeleça a conexão com o servidor do Blynk;
 
-## 🛠 Instalação Bibliotecas
+Após estabelecer a conexão, integre o ESP82 ao Blynk;
 
+Configure o modelo de funcionamento, além de alertas, notificações e automações;
+
+Após completar todas essas etapas, a integração e a interface estarão prontas.
 
 ## 🗃 Histórico de lançamentos
 
