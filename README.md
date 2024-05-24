@@ -15,7 +15,7 @@
 O projeto visa implementar um sistema de monitoramento e controle de umidade do solo em estufas agrícolas para otimizar a irrigação, reduzir desperdícios de recursos e melhorar a produtividade das plantas. Os principais objetivos incluem a instalação de sensores de umidade em pontos estratégicos, automatização do sistema de irrigação com base em dados coletados, desenvolvimento de um aplicativo para monitoramento e controle remoto, e implementação de alertas e relatórios detalhados.
 
 <p align="center">
-<img src="C:\Users\gabri\Downloads\WhatsApp Image 2024-05-23 at 23.59.09.jpeg" alt="NOME DO JOGO" border="0">
+<img src="C:\Users\gabri\Downloads\WhatsApp Image 2024-05-23 at 23.59.11 (1).jpeg" alt="NOME DO JOGO" border="0">
   Projeto desenvolvido por: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
 </p>
 
