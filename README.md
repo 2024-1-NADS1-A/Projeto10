@@ -14,13 +14,20 @@
 ## Descrição
 O projeto visa implementar um sistema de monitoramento e controle de umidade do solo em estufas agrícolas para otimizar a irrigação, reduzir desperdícios de recursos e melhorar a produtividade das plantas. Os principais objetivos incluem a instalação de sensores de umidade em pontos estratégicos, automatização do sistema de irrigação com base em dados coletados, desenvolvimento de um aplicativo para monitoramento e controle remoto, e implementação de alertas e relatórios detalhados.
 
+![Imagem projeto](https://github.com/2024-1-NADS1-A/Projeto10/assets/163611404/dd5d485e-c5d3-483d-8d56-3b4ace23a275)
 <p align="center">
-<img src="C:\Users\gabri\Downloads\WhatsApp Image 2024-05-23 at 23.59.11 (1).jpeg" alt="NOME DO JOGO" border="0">
+<img src= alt="NOME DO JOGO" border="0">
   Projeto desenvolvido por: <a href="https://www.linkedin.com/in/lucas-gomes-de-souza-526b1730a/">Lucas Gomes de Souza</a>
 </p>
 
 <br><br>
-Meu projeto visa ajudar a implementar um sistema avançado de detecção e controle de umidade do solo em estufas agrícolas, visando melhorar a eficiência na irrigação, reduzir desperdícios de recursos naturais e aumentar a produtividade das culturas.
+O projeto de Sistema de Detecção de Umidade utiliza o microcontrolador ESP32 e o aplicativo Blynk para monitorar remotamente os níveis de umidade do solo. O sistema é composto por um sensor de umidade do solo, que envia dados para o ESP32. Estes dados são transmitidos ao Blynk, onde o usuário pode visualizá-los através de uma interface personalizada.
+
+Inicialmente, o projeto é criado no Blynk e as credenciais de autenticação são obtidas. No código do ESP32, a biblioteca Blynk é incluída e as credenciais são configuradas. Em seguida, o ESP32 é conectado ao servidor Blynk e os pinos virtuais são configurados para receber os dados do sensor.
+
+Após a integração e a configuração online do ESP32, o sistema permite atualizações de firmware Over-The-Air (OTA) para facilitar a manutenção. A interface do usuário é construída no aplicativo Blynk, incluindo gráficos e indicadores de umidade, além de configurações de alertas e automações, como o acionamento de sistemas de irrigação quando a umidade estiver baixa.
+
+Com todas as etapas concluídas, o sistema oferece um monitoramento eficiente e em tempo real, melhorando a gestão da irrigação e a saúde das plantas.
 <br><br>
 
 ## 🛠 Estrutura de pastas
